@@ -1,4 +1,3 @@
----- leaked by .gg/source
 if _G.luckbroomRunning then
     warn("[luckbroom] Instancia previa detectada. Se recomienda rejoin si hay comportamiento errático.")
 end
